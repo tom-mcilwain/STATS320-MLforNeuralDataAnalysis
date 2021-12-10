@@ -1,4 +1,4 @@
-# STATS320: Machine Learning Methods for Neural Data Analysis - Stanford University
+# STATS 320: Machine Learning Methods for Neural Data Analysis - Stanford University
 
 Title: A Review and Implementation of Manifold Learning Techniques on Single-Neuron Recordings Generated from a Memory Recall Task
 
