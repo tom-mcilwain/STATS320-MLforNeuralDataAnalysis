@@ -1,2 +1,5 @@
-# STATS320-NeuralDataAnalysis-FinalProject
-A Review and Implementation of Manifold Learning Techniques on Single-Neuron Recordings Generated from a Memory Recall Task
+# STATS320: Machine Learning Methods for Neural Data Analysis - Stanford University
+
+Title: A Review and Implementation of Manifold Learning Techniques on Single-Neuron Recordings Generated from a Memory Recall Task
+
+Abstract: Many dimensionality reduction techniques exist, but there are a handful of them that are very useful for neural data analysis [7]. The method used for manifold discovery depends on the type of data used and the temporal dynamics of the task at hand. There are basic covariance methods that find how neural activity covaries over time such as PCA or Factor Analysis (FA) that are usually applied to trial-averaged data. Other methods exist that are better used on single-trial time series data where spikes are binned into firing rates, such as Latent Linear Dynamical Systems or Gaussian Process Factor Analysis. This report includes a review of commonly used dimensionality reduction techniques in the context of neural data analysis, and an implementation of three of these techniques on single-trial recordings from individual neurons in the human medial temporal lobe when subjects are performing a memory recall task.
